@@ -1,0 +1,15 @@
+# Site settings
+title: My Firehose of Consciousness
+email: bradley.busching@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The stream of consciousness of Bradley Busching. General musings, happenings,
+  and interactions from my daily life.
+baseurl: "/blog"
+url: "http://TBD.com"
+github_username:  bbusching
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
